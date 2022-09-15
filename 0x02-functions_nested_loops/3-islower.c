@@ -2,7 +2,7 @@
 #include <ctype.h>
 
 /**
- * int _islower(int c)-main-entry point for the program.
+ *  _islower - main-entry point for the program.
  *
  * @c : character passed as c.
  *
