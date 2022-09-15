@@ -5,7 +5,7 @@
 /**
  * print_last_digit - main-entry point for the program.
  *
- * @l : character passed as l.
+ * @n : character passed as n.
  *
  * Return: l
  */
