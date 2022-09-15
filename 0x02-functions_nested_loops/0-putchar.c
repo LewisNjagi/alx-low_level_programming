@@ -12,13 +12,13 @@
 
 int main(void)
 {
-char c[] = "_putchar";
+char c[10] = "_putchar";
 int i = 0;
-while (i < 9)
+while (i < 10)
 {
 _putchar(c[i]);
 i++;
 }
-_putchar(9);
+_putchar('\n');
 return (0);
 }
