@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main-entry point for the program.
+ * print_alphabet-main-entry point for the program.
  *
- * print_alphabet - prints the english alphabet from a-z.
+ * Description: prints the english alphabet from a-z.
  *
  * Return: Nothing.
  */
