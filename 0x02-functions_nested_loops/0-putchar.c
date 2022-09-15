@@ -19,6 +19,6 @@ while (i < 9)
 _putchar(c[i]);
 i++;
 }
-_putchar(10);
+_putchar(9);
 return (0);
 }
