@@ -4,7 +4,7 @@
 /**
  * int _islower(int c)-main-entry point for the program.
  *
- * Description: checks for lowercase character.
+ * @c : character passed as c.
  *
  * Return: 1 if c is lowercase, 0 otherwise
  */
