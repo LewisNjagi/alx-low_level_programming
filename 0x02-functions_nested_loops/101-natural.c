@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
  *main - check for multiples of 3 and 5
  *
- *Return: 0 
+ *Return: 0
  */
+
 int main(void)
 {
 int a = 1024;
