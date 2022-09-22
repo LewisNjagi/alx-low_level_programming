@@ -16,6 +16,12 @@ _putchar(s[i]);
 _putchar('\n');
 }
 
+/**
+ *_strlen - returns the length of a string
+ * @s: string
+ *Return: returns length;
+ */
+
 int _strlen(char *s)
 {
 int n, len;
