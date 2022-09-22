@@ -41,7 +41,7 @@ return (len);
 *Return: nothing
 */
 
-void swap_char(int *a, int *b)
+void swap_char(char *a, char *b)
 {
 int c = *a;
 *a = *b;
