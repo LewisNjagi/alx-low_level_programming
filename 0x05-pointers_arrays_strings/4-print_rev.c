@@ -15,3 +15,13 @@ _putchar(s[i]);
 
 _putchar('\n');
 }
+
+int _strlen(char *s)
+{
+int n, len;
+len = 0;
+for (n = 0; s[n] != '\0'; n++)
+len++;
+
+return (len);
+}
