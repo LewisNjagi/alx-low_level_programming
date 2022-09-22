@@ -35,13 +35,13 @@ return (len);
 }
 
 /**
-*swap_int - swap two integers
-*@a: first integer
-*@b: second integer
+*swap_char - swap two characters
+*@a: first character
+*@b: second character
 *Return: nothing
 */
 
-void swap_int(int *a, int *b)
+void swap_char(int *a, int *b)
 {
 int c = *a;
 *a = *b;
